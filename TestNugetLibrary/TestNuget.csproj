@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This is a test nuget package - what  / how do i create a package from VS2019, and push it from Jenkins to GH packages.</Description>
+  </PropertyGroup>
+
+</Project>
